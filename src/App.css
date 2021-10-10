@@ -1,0 +1,22 @@
+.site-layout-content {
+  min-height: 280px;
+  padding: 24px;
+  background: rgb(17, 0, 255);
+}
+.logo {
+  float: left;
+  background: rgb(0, 255, 0);
+}
+.ant-row-rtl .logo {
+  float: right;
+  margin: 16px 0 16px 24px;
+}
+  [data-theme="dark"] .site-layout-content {
+    background: #141414;
+  }
+.layout{
+  background-color: rgba(0, 0, 0, 0) !important;
+}
+.ant-layout-footer{
+  background-color: rgba(0, 0, 0, 0) !important;
+}
