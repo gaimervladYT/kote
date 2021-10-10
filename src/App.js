@@ -16,7 +16,7 @@ function App() {
          kote
       </div>
       <Menu theme="dark" mode="horizontal" defaultSelectedKeys={['2']}>
-        <Menu.Item>Его интересы</Menu.Item>
+        <Menu.Item>Его интересы1</Menu.Item>
         <Menu.Item>Его проекты</Menu.Item>
         <Menu.Item>Как связаться</Menu.Item>
       </Menu>
